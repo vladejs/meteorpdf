@@ -1,0 +1,10 @@
+{
+  "name": "1000",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "html-pdf": "^2.1.0"
+  }
+}
